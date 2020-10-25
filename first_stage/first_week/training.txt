@@ -1,1 +1,17 @@
 练习试题
+1 b
+2 d
+3 c
+4 d
+5 b
+6 b
+7 c
+8 d
+9 b
+10 c
+11 a b d
+12 a b c
+13 a c
+14 a b d
+15 b c d
+
