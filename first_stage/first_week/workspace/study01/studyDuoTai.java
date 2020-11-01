@@ -1,4 +1,4 @@
-package study02;
+package study01;
 
 class Animal{
     public int month = 2;
